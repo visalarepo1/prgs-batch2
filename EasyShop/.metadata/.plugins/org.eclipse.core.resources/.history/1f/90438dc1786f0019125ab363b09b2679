@@ -1,0 +1,13 @@
+import javax.print.DocFlavor.STRING;
+
+public class productservice {
+String Name:
+	int Price;
+
+	
+		
+		
+		
+	}
+
+

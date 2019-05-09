@@ -1,0 +1,13 @@
+import javax.print.DocFlavor.STRING;
+
+public  class products {
+String Name;
+	int Price;
+
+	
+		
+		
+		
+	}
+
+

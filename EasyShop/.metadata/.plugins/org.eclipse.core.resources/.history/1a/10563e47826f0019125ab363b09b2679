@@ -1,0 +1,10 @@
+package com.prgs.easyshop.productservice;
+public class ProductService {
+	
+	
+public void getproducts(){
+	
+	
+}
+
+}
