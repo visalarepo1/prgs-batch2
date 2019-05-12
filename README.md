@@ -13,3 +13,15 @@
   4. What REST & SOAP. What are the differences between two.
   5. Story1: Return one new Product from ProductService.getProducts method.
   6. Trello project: update the stories with tasks.
+
+## Session #2
+1. Springboot - web application
+2. Maven
+3. MVC (Model/View/Controller)
+
+Assignments:
+1. Convert maven to gradle
+2. Build Products page
+3. Another example controller and view.
+
+
