@@ -28,8 +28,10 @@ Assignments:
 ## Session #2
 1. GIT
 2. Springboot - Microservice
-3. Web application (client)
-4. Consuming web service (weather service)
+3. Server side MVC vs Client side MVC
+4. Springboot - static Web application (client)
+5. Consuming micro service from static web application
 
 Assignments:
 1. Create easyShop products micro service and build client to display the products on demand.
+2. Consuming web service (weather service)
