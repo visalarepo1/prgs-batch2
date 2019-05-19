@@ -25,3 +25,11 @@ Assignments:
 3. Another example controller and view.
 
 
+## Session #2
+1. GIT
+2. Springboot - Microservice
+3. Web application (client)
+4. Consuming web service (weather service)
+
+Assignments:
+1. Create easyShop products micro service and build client to display the products on demand.
