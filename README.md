@@ -35,3 +35,6 @@ Assignments:
 Assignments:
 1. Create easyShop products micro service and build client to display the products on demand.
 2. Consuming web service (weather service)
+  Api: http://api.openweathermap.org/data/2.5/weather?units=imperial&appid=<APIKEY>&q=dallas,us
+3. Try calling micro-service to get list of products and display them on screen.
+  
