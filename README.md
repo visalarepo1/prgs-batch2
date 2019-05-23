@@ -25,7 +25,7 @@ Assignments:
 3. Another example controller and view.
 
 
-## Session #2
+## Session #3
 1. GIT
 2. Springboot - Microservice
 3. Server side MVC vs Client side MVC
@@ -38,3 +38,6 @@ Assignments:
   Api: http://api.openweathermap.org/data/2.5/weather?units=imperial&appid=#APIKEY#&q=dallas,us
 3. Try calling micro-service to get list of products and display them on screen.
   
+## Session #4
+1. OOP
+2. Inheritance etc.
