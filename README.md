@@ -39,5 +39,6 @@ Assignments:
 3. Try calling micro-service to get list of products and display them on screen.
   
 ## Session #4
-1. OOP
-2. Inheritance etc.
+1. OOP (abstraction, encapsulation, inheritance, polymorphism)
+2. POST - product details form to create a product.
+3. 
