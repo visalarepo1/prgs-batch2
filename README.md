@@ -32,7 +32,7 @@ Assignments:
 4. Springboot - static Web application (client)
 5. Consuming micro service from static web application
 
-Assignments:
+###Assignments:
 1. Create easyShop products micro service and build client to display the products on demand.
 2. Consuming web service (weather service)
   Api: http://api.openweathermap.org/data/2.5/weather?units=imperial&appid=#APIKEY#&q=dallas,us
@@ -41,4 +41,13 @@ Assignments:
 ## Session #4
 1. OOP (abstraction, encapsulation, inheritance, polymorphism)
 2. POST - product details form to create a product.
-3. First 10 topics under java classes: https://www.w3schools.com/java/java_classes.asp
+
+###Assignments
+1. First 10 topics under java classes: https://www.w3schools.com/java/java_classes.asp
+
+## Session #5
+1. Design patterns
+2. 
+
+###Assignments
+1. https://dzone.com/articles/spring-boot-restful-web-service-complete-example
