@@ -41,4 +41,4 @@ Assignments:
 ## Session #4
 1. OOP (abstraction, encapsulation, inheritance, polymorphism)
 2. POST - product details form to create a product.
-3. 
+3. First 10 topics under java classes: https://www.w3schools.com/java/java_classes.asp
