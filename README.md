@@ -15,7 +15,7 @@
   6. Trello project: update the stories with tasks.
 
 ## Session #2
-1. Springboot - web application
+1. Springboot - web application [here](https://spring.io/guides/gs/serving-web-content/)
 2. Maven
 3. MVC (Model/View/Controller)
 
@@ -40,7 +40,7 @@
   
 ## Session #4
 1. OOP (abstraction, encapsulation, inheritance, polymorphism)
-2. POST - product details form to create a product.
+2. POST - product details form to create a product. [here](https://spring.io/guides/gs/handling-form-submission/)
 
 #### Assignments
 1. First 10 topics under java classes: https://www.w3schools.com/java/java_classes.asp
