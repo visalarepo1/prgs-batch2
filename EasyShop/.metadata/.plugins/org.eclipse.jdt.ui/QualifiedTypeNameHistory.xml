@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.prgs.easyshop.datamodel.BabyProducts"/>
+<fullyQualifiedTypeName name="com.prgs.easyshop.datamodel.Products"/>
+<fullyQualifiedTypeName name="com.prgs.easyshop.datamodel.BoardGames"/>
+<fullyQualifiedTypeName name="com.prgs.easyshop.datamodel.Electronictoy"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+</qualifiedTypeNameHistroy>

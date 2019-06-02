@@ -1,9 +1,0 @@
-package com.prgs.easyshop.controller;
-public class productcontroller {
-
-	public static void main(String[] args) {
-		
-
-	}
-
-}
