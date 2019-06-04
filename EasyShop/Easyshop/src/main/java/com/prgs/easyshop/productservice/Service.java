@@ -3,8 +3,9 @@ package com.prgs.easyshop.productservice;
 import com.prgs.easyshop.datamodel.Products;
 public class  Service {
 public static void main(String[] args) {
-
-  {
+	 
+ 
+ {
 
         Products productPSP = new ProductBuilder()
                                 .withName("psp")
@@ -14,6 +15,11 @@ public static void main(String[] args) {
         		.withPrice(20).withRating(4).build();
         System.out.println(ferrywheel.getName()+ ferrywheel.getPrice());
         System.out.println(productPSP.getName()+ productPSP.getPrice());
+        Products p1=new Products();
+        p1.setName("airplane");
+        System.out.println(p1.getName());
+        
+       
     }
 
 }}
