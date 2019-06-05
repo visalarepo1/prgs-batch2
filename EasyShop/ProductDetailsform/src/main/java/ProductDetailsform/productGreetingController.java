@@ -11,6 +11,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 public class productGreetingController {
     @GetMapping("/greeting")
     public String greetingForm(Model model) {
+    	ProductGreeting Product=new ProductGreeting();
+    	Product.setContent("teddy");
+    	Product.setId(100);
+    	
         model.addAttribute("greeting", new ProductGreeting());
         return "greeting";
     }
