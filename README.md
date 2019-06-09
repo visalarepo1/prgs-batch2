@@ -47,7 +47,8 @@
 
 ## Session #5
 1. Design patterns
-2. 
+2. command-line
+3. html/css/javascript - thymeleaf
 
 #### Assignments
 1. https://dzone.com/articles/spring-boot-restful-web-service-complete-example
