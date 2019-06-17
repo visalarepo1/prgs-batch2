@@ -1,11 +1,22 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
 <head>
     <title>Getting Started: Serving Web Content</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
    
-    <a th:text="${Shadjama}" th:href="@{|/greeting/${Shadjama}|}"></a>
-    
+   <a th:text="${Shadjamam}" href="@{|/greeting/${Shadjama}|}"></a>
+   <table border="1">
+    <tr>
+      <th>Student name</th>
+      <th>Student id</th>
+    </tr>
+    <tr th:each="Students: ${Students}">
+      <td th:text="${Students.name}" />
+      <td th:text="${Students.id}" />
+    </tr>
+  </table>  
 <script>
 var dt = new Date();
 document.getElementById("time").innerHTML = dt.toLocaleTimeString();

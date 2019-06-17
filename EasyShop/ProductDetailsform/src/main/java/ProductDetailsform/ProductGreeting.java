@@ -3,14 +3,25 @@ package ProductDetailsform;
 
 public class ProductGreeting {
 
-    private long id;
-    private String content;
+    public int id;
+    public String content;
+  public  ProductGreeting(String name,int id){
+		this.content=name;
+		this.id=id;
+	}
+   
 
-    public long getId() {
+    public ProductGreeting() {
+	int id;
+	String name;
+}
+
+
+	public int getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(int id) {
         this.id = id;
     }
 

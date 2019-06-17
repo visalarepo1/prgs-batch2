@@ -10,17 +10,18 @@ import org.springframework.web.bind.annotation.PostMapping;
 @Controller
 public class productGreetingController {
     @GetMapping("/greeting")
-    public String greetingForm(Model model) {
-    	ProductGreeting Product=new ProductGreeting();
-    	Product.setContent("teddy");
-    	Product.setId(100);
+    public String greetingForm(Model model, String string) {
+    	
+    	ProductGreeting hello= new ProductGreeting();
+    	hello.setContent("xx");
+    	hello.setId(2);
     	
         model.addAttribute("greeting", new ProductGreeting());
         return "greeting";
     }
 
     @PostMapping("/greeting")
-    public String greetingSubmit(@ModelAttribute ProductGreeting greeting) {
+    public String greetingSubmit(@ModelAttribute ProductGreeting ProductGreeting) {
         return "result";
     }
 
