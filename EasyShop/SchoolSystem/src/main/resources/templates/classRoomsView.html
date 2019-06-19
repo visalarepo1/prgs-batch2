@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Classrooms list</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    
+    <div th:each="cls: ${classList}"> 
+   		<a th:href="@{/class(id=${cls.id})}">
+   			<p th:text="${cls.name}"/>
+   		</a>
+    </div>
+    
+</body>
+</html>

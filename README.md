@@ -27,7 +27,7 @@
 
 ## Session #3
 1. GIT
-2. Springboot - Microservice
+2. Springboot - Microservice [here](https://spring.io/guides/gs/rest-service/)
 3. Server side MVC vs Client side MVC
 4. Springboot - static Web application (client)
 5. Consuming micro service from static web application
@@ -47,7 +47,8 @@
 
 ## Session #5
 1. Design patterns
-2. 
+2. command-line
+3. html/css/javascript - thymeleaf
 
 #### Assignments
 1. https://dzone.com/articles/spring-boot-restful-web-service-complete-example
