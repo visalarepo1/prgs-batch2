@@ -60,3 +60,5 @@
 ## Session #6
 1. Unit testing  [JUnit-5](https://junit.org/junit5/docs/current/user-guide/#overview) [TestNG](https://testng.org/doc/)
 2. Spring boot test (https://www.baeldung.com/spring-boot-testing)
+3. Integration tests
+4. UI Automation(E2E) [Selenium eg.](https://www.seleniumeasy.com/selenium-tutorials/how-to-run-webdriver-in-chrome-browser)
