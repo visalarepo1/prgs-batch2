@@ -52,9 +52,7 @@
 
 #### Assignments
 1. https://dzone.com/articles/spring-boot-restful-web-service-complete-example
-
-##Session #6
-1. Multithreading
+2. Multithreading
 [Threadpool] (https://howtodoinjava.com/java/multi-threading/java-thread-pool-executor-example/)
 
 ## Session #6
