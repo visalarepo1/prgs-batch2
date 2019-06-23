@@ -56,3 +56,7 @@
 ##Session #6
 1. Multithreading
 [Threadpool] (https://howtodoinjava.com/java/multi-threading/java-thread-pool-executor-example/)
+
+## Session #6
+1. Unit testing  [JUnit-5](https://junit.org/junit5/docs/current/user-guide/#overview) [TestNG](https://testng.org/doc/)
+2. Spring boot test (https://www.baeldung.com/spring-boot-testing)
