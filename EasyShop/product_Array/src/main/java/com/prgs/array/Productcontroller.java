@@ -1,3 +1,4 @@
+package com.prgs.array;
 
 
 import java.util.ArrayList;
@@ -15,9 +16,11 @@ ArrayList<Products> AL(){
 	ArrayList<Products> listOfProducts= new ArrayList<Products>();
 	Products p1= new Products("Batman", 220);
 	p1.setName("Batman");
+	p1.setPrice(10);
 	listOfProducts.add(p1);
 	Products p2= new Products("dog", 30);
 	p2.setName("dog");
+	p2.setPrice(20);
 	listOfProducts.add(p2);
 	for (Products lang : listOfProducts) {
         
