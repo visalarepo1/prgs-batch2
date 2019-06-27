@@ -5,21 +5,20 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class AutomationMain {
 
 	public static void main(String[] args) throws InterruptedException {
-		System.setProperty("webdriver.chrome.driver",
-				"/Users/sgannu/prgs/prgs-training-batch2/SeleniumAutomation/lib/chromedriver");
-		WebDriver driver = new ChromeDriver();
-    	
-        String baseUrl = "http://localhost:8080/classrooms";
+		AutomationFramework framework = new AutomationFramework();
+		
+		String baseUrl = "http://localhost:8080/classrooms";
+		WebDriver driver = framework.launchBrowser(baseUrl);
+
+        
         String expectedTitle = "Classrooms list";
         String actualTitle = "";
 
         // launch Browser and direct it to the Base URL
-        driver.get(baseUrl);
 
         // get the actual value of the title
         actualTitle = driver.getTitle();
@@ -51,8 +50,8 @@ public class AutomationMain {
         
         Thread.sleep(5000);
         
-        //close Chrome
-        driver.close();
+        framework.close();
 	}
+
 
 }
