@@ -60,3 +60,7 @@
 2. Spring boot test (https://www.baeldung.com/spring-boot-testing)
 3. Integration tests
 4. UI Automation(E2E) [Selenium eg.](https://www.seleniumeasy.com/selenium-tutorials/how-to-run-webdriver-in-chrome-browser)
+
+## Session #7
+1. Spring framework and Context example.
+2. Spring Data/ORM [JPA eg.](https://spring.io/guides/gs/accessing-data-jpa/)
