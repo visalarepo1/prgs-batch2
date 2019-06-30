@@ -52,5 +52,22 @@
 
 #### Assignments
 1. https://dzone.com/articles/spring-boot-restful-web-service-complete-example
+2. Multithreading
+[Threadpool] (https://howtodoinjava.com/java/multi-threading/java-thread-pool-executor-example/)
 
+## Session #6
+1. Unit testing  [JUnit-5](https://junit.org/junit5/docs/current/user-guide/#overview) [TestNG](https://testng.org/doc/)
+2. Spring boot test (https://www.baeldung.com/spring-boot-testing)
+3. Integration tests
+4. UI Automation(E2E) [Selenium eg.](https://www.seleniumeasy.com/selenium-tutorials/how-to-run-webdriver-in-chrome-browser)
+
+## Session #7
+1. Spring framework and Context example. [example: ](https://www.mkyong.com/spring/spring-auto-scanning-components/)
+2. [AOP eg.](https://www.springboottutorial.com/spring-boot-and-aop-with-spring-boot-starter-aop)
+3. Spring Data/ORM [JPA eg.](https://spring.io/guides/gs/accessing-data-jpa/), try using MySQL database server.
+  [MySQL - download](https://dev.mysql.com/downloads/mysql/)
+4. [Tomcat - download](https://tomcat.apache.org/download-90.cgi)
+
+## Session #8
+ AWS
 
