@@ -1,0 +1,12 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+	
+	<bean id="Serviceone" class="com.prgs.services.ServiceOne">
+		<property name="ServiceDependency" ref="Servicetwo" />
+	</bean>
+
+	<bean id="Servicetwo" class="com.prgs.services.ServiceTwo" />
+
+</beans>
