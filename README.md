@@ -63,6 +63,7 @@
 
 ## Session #7
 1. Spring framework and Context example. [example: ](https://www.mkyong.com/spring/spring-auto-scanning-components/)
-2. Spring Data/ORM [JPA eg.](https://spring.io/guides/gs/accessing-data-jpa/)
-3. [MySQL - download](https://dev.mysql.com/downloads/mysql/)
+2. [AOP eg.](https://www.springboottutorial.com/spring-boot-and-aop-with-spring-boot-starter-aop)
+3. Spring Data/ORM [JPA eg.](https://spring.io/guides/gs/accessing-data-jpa/)
+4. [MySQL - download](https://dev.mysql.com/downloads/mysql/)
   [Tomcat - download](https://tomcat.apache.org/download-90.cgi)
