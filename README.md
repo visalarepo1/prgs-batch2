@@ -67,3 +67,6 @@
 3. Spring Data/ORM [JPA eg.](https://spring.io/guides/gs/accessing-data-jpa/)
 4. [MySQL - download](https://dev.mysql.com/downloads/mysql/)
   [Tomcat - download](https://tomcat.apache.org/download-90.cgi)
+
+## Session #8
+ AWS
