@@ -62,5 +62,5 @@
 4. UI Automation(E2E) [Selenium eg.](https://www.seleniumeasy.com/selenium-tutorials/how-to-run-webdriver-in-chrome-browser)
 
 ## Session #7
-1. Spring framework and Context example.
+1. Spring framework and Context example. [example: ](https://www.mkyong.com/spring/spring-auto-scanning-components/)
 2. Spring Data/ORM [JPA eg.](https://spring.io/guides/gs/accessing-data-jpa/)
